@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894756900980",
+    "firebase_url": "https://alpr-577fe.firebaseio.com",
+    "project_id": "alpr-577fe",
+    "storage_bucket": "alpr-577fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894756900980:android:ddd651785661610ad30121",
+        "android_client_info": {
+          "package_name": "com.example.alpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894756900980-r2kr1nrfhc2drpdp2ft0l3avgqlucf3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzw4s9bwCuAJRtRvJrY-Kp0MWVg8INZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894756900980-r2kr1nrfhc2drpdp2ft0l3avgqlucf3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
